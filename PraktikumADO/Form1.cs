@@ -124,6 +124,7 @@ namespace PraktikumADO
             }
         }
 
+        //Latihan 1 
         private void btnHitungDosen_Click(object sender, EventArgs e)
         {
             try
@@ -147,7 +148,7 @@ namespace PraktikumADO
             }
         }
 
-        //Latihan 1 
+        //Latihan 2 
         private void btnUpdateMK_Click(object sender, EventArgs e)
         {
             try
